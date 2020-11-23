@@ -1,0 +1,25 @@
+.UserInput {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.Button {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px 10px;
+    
+    border-radius: 10px;
+    border: transparent;
+    background-color: teal;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+.Button:hover {
+    background-color: transparent;
+    border: 1px solid teal;
+    color: teal;
+    font-weight: 800;
+  }

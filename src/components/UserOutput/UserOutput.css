@@ -1,0 +1,11 @@
+.Output {
+    border: 1px solid rgb(128, 44, 44);
+    padding: 30px 50px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.Paragraph {
+    font-family: sans-serif;
+    font-weight: 600;
+}
