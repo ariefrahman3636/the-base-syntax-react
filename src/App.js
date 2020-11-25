@@ -105,7 +105,6 @@ HobbiesChangeHandlerTwo = (event) => {
           className="SwitchButton"
           onClick={this.switchHandler.bind(this, 'Mark B')}>Switch</button>
       </div>
-      
     );
   }
 }
